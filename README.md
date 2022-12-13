@@ -3,9 +3,10 @@
 Se realiza un análisis a un conjunto de muestras de alrededor de 3000 cuerpos de agua
 para determinar si son de agua potable o no potable.
 
-Los datos se obtuvieron de la plataforma Kaggle (https://www.kaggle.com/datasets/artimule/drinking-water-probability). 
+Los datos se obtuvieron de la plataforma Kaggle (https://www.kaggle.com/datasets/artimule/drinking-water-probability) también disponibles en el archivo *drinking_water_potability.csv*.
 
-El notebook *Preprocesamiento de datos.ipynb* incluye la limpieza de datos. *Análisis exploratorio de datos.ipynb* contiene un análisis de las variables cuantitativas de la base de datos. Y en *Clasificadores.ipynb* se muestran diferentes clasificares por ejemplo knn, regresión logística, SVM, random forest, naive Bayes y redes neuronales.
+El notebook *Preprocesamiento de datos.ipynb* incluye la limpieza de datos de donde se obtuvo el csv *water_clean.csv*.
+*Análisis exploratorio de datos.ipynb* contiene un análisis de las variables cuantitativas de la base de datos. Y en *Clasificadores.ipynb* se muestran diferentes clasificares por ejemplo knn, regresión logística, SVM, random forest, naive Bayes y redes neuronales.
 
 Los notebooks, respectivamente, también están disponibles en:
 
